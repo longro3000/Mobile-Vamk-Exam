@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Exam</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="back_button">Back</string>
+    <string name="back_to_home">Back To Home Page</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="issue_order">Issue Order</string>
+    <string name="amount">Amount</string>
+    <string name="add_button">Add To Cart</string>
+    <string name="remove_button">Remove From Cart</string>
+    <string name="view_cart">View Shopping Cart</string>
+</resources>
